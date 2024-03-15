@@ -9,7 +9,7 @@ The notebok is structured a follows:
 3. Data Cleaning and Data Wrangling
 4. Data Analysis
 
-The following python libraries have been used for the project:
+The following Python libraries have been used for the project:
 
 - [Numpy](https://numpy.org/doc/stable/#)
 - [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html)
